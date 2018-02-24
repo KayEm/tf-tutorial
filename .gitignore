@@ -102,3 +102,4 @@ ENV/
 
 # misc
 .vscode
+/mnist-classifier/MNIST-Data
